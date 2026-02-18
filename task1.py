@@ -10,7 +10,7 @@
 # --- Snippet 1 ---
 # This should display a greeting
 message = "Hello, welcome to Python!"
-print(message)
+print(f'{message}')
 
 # --- Snippet 2 ---
 # This should display a student's name

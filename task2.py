@@ -26,7 +26,7 @@ def main():
     soda_quantity_str = input("How many sodas? ")
     gallons_str = input("How many gallons of gas? ")
     pounds_str = input("How many pounds of deli meat? ")
-    lottery_quantity_str = input("How many lottery tickets?" )
+    lottery_quantity_str = input("How many lottery tickets? ")
 
 
 # Comment out the line below after fixing input bugs
